@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Jekyll 블로그, 모바일에서도 잘 보이는지 확인하는 법"
-date: 2026-04-21
+date: 2026-04-10
 categories: Jekyll블로그
 author_profile: false
 share: false
